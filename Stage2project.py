@@ -1,4 +1,5 @@
 # Udacity stage 2 project by Moritz Krusche
+# This has been written for Python 2.7! To work in Python 3.5, all print, string, and input functions need changes!
 # London trivia quiz as fill-in-the-blanks
 # The programme greets the player and offers three difficulty levels with 9 to 10 answers each.
 # Mistakes per blank are limited. There is a warning.
